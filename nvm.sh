@@ -1,3 +1,5 @@
+
+
 echo "This script will help you install the tools needed for javascript development"
 echo "Authors: Ahmed Ali and Brian Mituka"
 echo "released for free use Authors not liable for any damages caused as a result of running this script!"
